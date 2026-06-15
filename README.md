@@ -4,9 +4,9 @@
 
 <br/>
 
-[![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-red?style=for-the-badge&logo=target&logoColor=white)](https://eu.badgr.com)
-[![WEB-200](https://img.shields.io/badge/WEB--200-RTA_Certified-8B0000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.offsec.com)
-[![HTB](https://img.shields.io/badge/HackTheBox-Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/SEU_ID)
+[![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-red?style=for-the-badge&logo=target&logoColor=white)](https://labs.cyberwarfare.live/credential/achievement/6a0c6e2e6d7fa552c3968ce8)
+[![WEB-RTA](https://img.shields.io/badge/WEB--200-RTA_Certified-8B0000?style=for-the-badge&logo=firefox&logoColor=white)](https://labs.cyberwarfare.live/credential/achievement/69dd4ec25691b2ace3f0ca6d)
+[![THM](https://img.shields.io/badge/HackTheBox-Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/SEU_ID)
 
 </div>
 
