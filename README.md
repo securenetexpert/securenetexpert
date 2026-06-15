@@ -26,10 +26,9 @@
 Penetration tester focused on **Red Team operations** and adversary simulation. I break things to understand how defenders should protect them — then I document everything.
 
 - 🔴 Certified Red Team Analyst **(CRTA)**
-- 🌐 Certified Web Red Team Analyst **(WEB-200 / RTA)**
-- 🧠 Active on **HackTheBox** and **CTF** competitions
+- 🌐 Certified Web Red Team Analyst **(WEB-RTA)**
+- 🧠 Active on **TryHackme** and **CTF** competitions
 - 🔍 Researching CVEs and writing technical post-mortems
-- 📝 Currently publishing write-ups on real-world TTPs
 
 ---
 
@@ -44,7 +43,7 @@ Penetration tester focused on **Red Team operations** and adversary simulation. 
 | **AD / Network** | BloodHound, CrackMapExec, Impacket, Responder |
 | **Post-Exploitation** | Metasploit, Sliver, Cobalt Strike (labs) |
 | **Scripting** | Python, Bash, PowerShell |
-| **OS** | Kali Linux, Parrot OS, Windows Server (AD labs) |
+| **OS** | Kali Linux, Windows Server (AD labs) |
 
 </div>
 
@@ -70,7 +69,7 @@ Penetration tester focused on **Red Team operations** and adversary simulation. 
 │  CRTA    — Certified Red Team Analyst                   │
 │            Red Team Labs / Altered Security              │
 │                                                         │
-│  WEB-200 — Web Red Team Analyst (RTA)                   │
+│  WEB-RTA — Web Red Team Analyst (RTA)                   │
 │            Offensive Security                            │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -93,8 +92,7 @@ Penetration tester focused on **Red Team operations** and adversary simulation. 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/SEU_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-silva-santos-8b2741139/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://securenetexpert.github.io)
 
 </div>
